@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bioluwatifeh
-- 👀 I’m interested in web developement(front end to be precise)
+- 👋 Hi, I’m @Tifeh
+- 👀 I’m interested in web developement
 - 🌱 I’m currently learning Html and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
